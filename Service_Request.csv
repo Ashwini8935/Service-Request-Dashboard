@@ -1,0 +1,501 @@
+Ticket_ID,Device_Name,Issue_Type,Priority,Status,Created_Date,Closed_Date,Assigned_Engineer,SLA_Hours,Resolution_Hours,Customer_Location
+SR0001,Temp Humidity Logger,Sensor Reading Error,High,Closed,2024-05-27,2024-05-29 15:00,Rajat,24,63,Hyderabad
+SR0002,Temp Humidity Logger,Communication Error,High,Closed,2024-01-29,2024-01-30 03:00,Harish,48,27,Delhi NCR
+SR0003,V-Device 100V,Firmware Update,Medium,Closed,2024-02-08,2024-02-10 05:00,Rajat,24,53,Bangalore
+SR0004,ESP32 Receiver,Communication Error,High,Closed,2024-06-14,2024-06-17 02:00,Satya,48,74,Hyderabad
+SR0005,ESP32 Receiver,Display Not Working,Low,Closed,2024-05-23,2024-05-23 19:00,Ashwini,72,19,Bangalore
+SR0006,Mechanical Counter,Calibration Required,Medium,Closed,2024-01-28,2024-01-30 12:00,Satya,48,60,Pune
+SR0007,GSM Logger MC60,Sensor Reading Error,Medium,Closed,2024-05-20,2024-05-23 19:00,Rishabh,48,91,Jharsuguda
+SR0008,Millivoltmeter,Sensor Reading Error,Medium,Closed,2024-06-28,2024-06-29 14:00,Shiv,24,38,Hyderabad
+SR0009,GSM Logger SIM800,Relay Malfunction,High,Closed,2024-01-04,2024-01-05 19:00,Rishabh,48,43,Jharsuguda
+SR0010,ESP32 Receiver,GSM Not Connecting,Low,Closed,2024-03-18,2024-03-20 22:00,Satya,72,70,Korba
+SR0011,Millivoltmeter,Calibration Required,High,Closed,2024-05-12,2024-05-15 15:00,Ashwini,24,87,Delhi NCR
+SR0012,Water Dispenser IR,Relay Malfunction,Medium,Closed,2024-05-25,2024-05-25 19:00,Rishabh,24,19,Delhi NCR
+SR0013,GSM Logger SIM800,No Output,High,Closed,2024-03-25,2024-03-26 12:00,Harish,72,36,Delhi NCR
+SR0014,Water Dispenser IR,GSM Not Connecting,Medium,Closed,2024-05-03,2024-05-05 00:00,Ashwini,72,48,Delhi NCR
+SR0015,GPS Tracker,GSM Not Connecting,Medium,Open,2024-03-17,,Harish,24,,Bangalore
+SR0016,Water Dispenser IR,Communication Error,Low,Open,2024-08-13,,Rajat,72,,Delhi NCR
+SR0017,Temp Humidity Logger,GSM Not Connecting,High,Closed,2024-06-08,2024-06-12 00:00,Satya,72,96,Hyderabad
+SR0018,Temp Humidity Logger,Firmware Update,High,Closed,2024-08-07,2024-08-08 00:00,Shiv,72,24,Korba
+SR0019,GPS Tracker,Power Failure,High,In Progress,2024-02-17,,Satya,72,35,Korba
+SR0020,Water Dispenser IR,Relay Malfunction,Medium,Closed,2024-01-05,2024-01-06 05:00,Rishabh,24,29,Korba
+SR0021,GSM Logger SIM800,Calibration Required,Low,Closed,2024-05-29,2024-05-29 11:00,Rajat,48,11,Delhi NCR
+SR0022,V-Device 100V,GSM Not Connecting,Low,Closed,2024-03-17,2024-03-19 05:00,Harish,72,53,Korba
+SR0023,Rotary Encoder,No Output,High,Closed,2024-04-18,2024-04-19 19:00,Ashwini,24,43,Bangalore
+SR0024,Temp Humidity Logger,Power Failure,Medium,Closed,2024-05-15,2024-05-16 22:00,Rishabh,48,46,Korba
+SR0025,Temp Humidity Logger,Communication Error,Medium,In Progress,2024-04-04,,Satya,24,43,Bangalore
+SR0026,GSM Logger MC60,Display Not Working,Low,Closed,2024-08-01,2024-08-01 22:00,Ashwini,48,22,Korba
+SR0027,V-Device 100V,GSM Not Connecting,High,Closed,2024-02-17,2024-02-18 14:00,Ashwini,72,38,Hyderabad
+SR0028,Rotary Encoder,GPS Signal Lost,Medium,Closed,2024-07-13,2024-07-14 11:00,Satya,48,35,Hyderabad
+SR0029,Millivoltmeter,Sensor Reading Error,Medium,Closed,2024-01-30,2024-01-30 19:00,Satya,24,19,Jharsuguda
+SR0030,V-Device 100V,GSM Not Connecting,Medium,Closed,2024-03-04,2024-03-06 02:00,Ashwini,24,50,Delhi NCR
+SR0031,V-Device 100V,Sensor Reading Error,Low,Closed,2024-05-20,2024-05-20 08:00,Harish,48,8,Jharsuguda
+SR0032,Rotary Encoder,PCB Fault,Medium,Closed,2024-05-21,2024-05-21 14:00,Rishabh,48,14,Pune
+SR0033,V-Device 100V,Relay Malfunction,Low,Closed,2024-02-11,2024-02-11 18:00,Rishabh,48,18,Pune
+SR0034,Rotary Encoder,Battery Backup Issue,Medium,Closed,2024-05-21,2024-05-23 19:00,Ashwini,48,67,Jharsuguda
+SR0035,Millivoltmeter,Relay Malfunction,Low,Open,2024-06-08,,Shiv,24,,Pune
+SR0036,GPS Tracker,PCB Fault,High,Closed,2024-02-15,2024-02-17 11:00,Shiv,72,59,Jharsuguda
+SR0037,GSM Logger SIM800,Display Not Working,Medium,Open,2024-01-18,,Rishabh,24,,Delhi NCR
+SR0038,GSM Logger SIM800,Power Failure,High,Open,2024-02-14,,Harish,48,,Korba
+SR0039,Water Dispenser IR,Firmware Update,Low,In Progress,2024-01-14,,Ashwini,24,10,Hyderabad
+SR0040,ESP32 Receiver,No Output,High,Closed,2024-03-05,2024-03-06 07:00,Rishabh,72,31,Pune
+SR0041,GSM Logger SIM800,Firmware Update,Medium,In Progress,2024-03-08,,Rajat,72,12,Pune
+SR0042,Millivoltmeter,Communication Error,Medium,Closed,2024-07-11,2024-07-14 01:00,Rishabh,48,73,Delhi NCR
+SR0043,GPS Tracker,PCB Fault,High,Closed,2024-08-24,2024-08-27 16:00,Ashwini,72,88,Hyderabad
+SR0044,Water Dispenser IR,Battery Backup Issue,Medium,In Progress,2024-08-02,,Shiv,24,27,Hyderabad
+SR0045,Mechanical Counter,Display Not Working,High,Closed,2024-07-20,2024-07-22 20:00,Satya,72,68,Pune
+SR0046,Millivoltmeter,Battery Backup Issue,High,Closed,2024-08-04,2024-08-05 17:00,Shiv,48,41,Bangalore
+SR0047,ESP32 Receiver,Relay Malfunction,High,Closed,2024-02-02,2024-02-05 23:00,Harish,72,95,Korba
+SR0048,Millivoltmeter,PCB Fault,Medium,Open,2024-08-27,,Shiv,72,,Jharsuguda
+SR0049,GSM Logger SIM800,Battery Backup Issue,Medium,Closed,2024-01-04,2024-01-06 12:00,Rishabh,48,60,Delhi NCR
+SR0050,Water Dispenser IR,GSM Not Connecting,Medium,Closed,2024-01-24,2024-01-28 00:00,Satya,72,96,Jharsuguda
+SR0051,Water Dispenser IR,Sensor Reading Error,Medium,Closed,2024-04-26,2024-04-29 09:00,Rishabh,72,81,Pune
+SR0052,Mechanical Counter,Power Failure,High,Closed,2024-03-10,2024-03-10 13:00,Rajat,48,13,Jharsuguda
+SR0053,Water Dispenser IR,GSM Not Connecting,Medium,Open,2024-08-04,,Ashwini,24,,Jharsuguda
+SR0054,GSM Logger MC60,Display Not Working,Medium,Open,2024-06-04,,Shiv,72,,Jharsuguda
+SR0055,GPS Tracker,Firmware Update,High,Closed,2024-01-05,2024-01-07 09:00,Satya,24,57,Hyderabad
+SR0056,ESP32 Receiver,Firmware Update,High,Closed,2024-05-10,2024-05-10 16:00,Harish,72,16,Jharsuguda
+SR0057,Millivoltmeter,Power Failure,Medium,Closed,2024-04-28,2024-05-01 23:00,Satya,72,95,Jharsuguda
+SR0058,T-Device 1350C,Display Not Working,Medium,Closed,2024-08-17,2024-08-19 01:00,Rishabh,72,49,Bangalore
+SR0059,GSM Logger SIM800,Calibration Required,Medium,Closed,2024-01-19,2024-01-23 00:00,Ashwini,48,96,Korba
+SR0060,GSM Logger SIM800,Sensor Reading Error,High,Closed,2024-05-07,2024-05-10 14:00,Harish,48,86,Delhi NCR
+SR0061,V-Device 100V,Calibration Required,Medium,Closed,2024-07-13,2024-07-15 08:00,Shiv,72,56,Pune
+SR0062,GPS Tracker,No Output,High,Closed,2024-01-02,2024-01-02 06:00,Rishabh,72,6,Korba
+SR0063,ESP32 Receiver,Calibration Required,High,Closed,2024-08-16,2024-08-18 17:00,Satya,72,65,Hyderabad
+SR0064,Temp Humidity Logger,Battery Backup Issue,Low,Closed,2024-07-25,2024-07-27 14:00,Rajat,48,62,Pune
+SR0065,V-Device 100V,Power Failure,Medium,Open,2024-07-12,,Satya,48,,Jharsuguda
+SR0066,V-Device 100V,Communication Error,Medium,Closed,2024-08-12,2024-08-15 07:00,Satya,48,79,Jharsuguda
+SR0067,GSM Logger SIM800,GSM Not Connecting,Low,Closed,2024-01-04,2024-01-07 15:00,Ashwini,24,87,Hyderabad
+SR0068,GPS Tracker,Firmware Update,High,Closed,2024-06-19,2024-06-21 14:00,Ashwini,24,62,Pune
+SR0069,Rotary Encoder,GPS Signal Lost,High,Closed,2024-04-19,2024-04-19 19:00,Rajat,48,19,Hyderabad
+SR0070,Water Dispenser IR,GSM Not Connecting,Low,Closed,2024-05-28,2024-05-30 04:00,Ashwini,72,52,Hyderabad
+SR0071,GSM Logger SIM800,Firmware Update,Low,Closed,2024-07-30,2024-08-01 10:00,Harish,48,58,Korba
+SR0072,Mechanical Counter,Firmware Update,Medium,Closed,2024-06-18,2024-06-20 06:00,Harish,72,54,Jharsuguda
+SR0073,V-Device 100V,Display Not Working,Medium,Closed,2024-05-18,2024-05-18 15:00,Rishabh,24,15,Delhi NCR
+SR0074,T-Device 1350C,GSM Not Connecting,Medium,Closed,2024-05-30,2024-05-30 19:00,Rishabh,24,19,Hyderabad
+SR0075,V-Device 100V,Calibration Required,High,Closed,2024-04-14,2024-04-15 09:00,Rishabh,72,33,Korba
+SR0076,V-Device 100V,PCB Fault,Medium,Closed,2024-07-01,2024-07-01 15:00,Rishabh,24,15,Bangalore
+SR0077,Rotary Encoder,Battery Backup Issue,High,Closed,2024-03-08,2024-03-09 18:00,Rishabh,48,42,Korba
+SR0078,V-Device 100V,GPS Signal Lost,Medium,Closed,2024-04-06,2024-04-09 00:00,Ashwini,48,72,Delhi NCR
+SR0079,Rotary Encoder,No Output,Low,Closed,2024-08-16,2024-08-18 06:00,Rishabh,48,54,Pune
+SR0080,Mechanical Counter,PCB Fault,High,Closed,2024-08-02,2024-08-03 08:00,Harish,24,32,Pune
+SR0081,GPS Tracker,GPS Signal Lost,Medium,Closed,2024-01-28,2024-01-30 19:00,Rishabh,24,67,Hyderabad
+SR0082,Temp Humidity Logger,Calibration Required,Low,In Progress,2024-03-05,,Ashwini,24,35,Delhi NCR
+SR0083,Rotary Encoder,Relay Malfunction,Medium,Closed,2024-08-18,2024-08-20 21:00,Rishabh,72,69,Korba
+SR0084,GSM Logger MC60,Communication Error,High,In Progress,2024-01-17,,Harish,48,4,Jharsuguda
+SR0085,T-Device 1350C,Power Failure,Medium,Closed,2024-08-19,2024-08-22 23:00,Harish,72,95,Hyderabad
+SR0086,ESP32 Receiver,Calibration Required,Low,Closed,2024-08-11,2024-08-13 15:00,Satya,72,63,Delhi NCR
+SR0087,ESP32 Receiver,No Output,Medium,Closed,2024-04-16,2024-04-19 04:00,Satya,24,76,Korba
+SR0088,V-Device 100V,Communication Error,Medium,Closed,2024-04-27,2024-04-27 17:00,Rajat,72,17,Bangalore
+SR0089,GSM Logger MC60,Power Failure,High,Closed,2024-04-14,2024-04-15 04:00,Rajat,72,28,Pune
+SR0090,V-Device 100V,PCB Fault,Medium,Closed,2024-03-12,2024-03-15 12:00,Harish,72,84,Pune
+SR0091,Mechanical Counter,GPS Signal Lost,High,Closed,2024-08-16,2024-08-17 19:00,Shiv,24,43,Pune
+SR0092,GPS Tracker,Sensor Reading Error,High,In Progress,2024-04-06,,Rishabh,48,30,Korba
+SR0093,GPS Tracker,Firmware Update,Low,Open,2024-02-05,,Harish,72,,Delhi NCR
+SR0094,GSM Logger SIM800,Firmware Update,Medium,Closed,2024-05-31,2024-06-01 10:00,Satya,24,34,Pune
+SR0095,GSM Logger SIM800,Firmware Update,Medium,In Progress,2024-02-13,,Rajat,48,24,Jharsuguda
+SR0096,GSM Logger MC60,GPS Signal Lost,Low,Closed,2024-06-24,2024-06-27 03:00,Rajat,48,75,Korba
+SR0097,GSM Logger MC60,PCB Fault,Medium,In Progress,2024-04-16,,Harish,72,36,Korba
+SR0098,Water Dispenser IR,Battery Backup Issue,Medium,In Progress,2024-01-07,,Ashwini,24,45,Pune
+SR0099,GPS Tracker,GPS Signal Lost,Low,In Progress,2024-04-28,,Satya,48,30,Jharsuguda
+SR0100,T-Device 1350C,PCB Fault,Medium,Closed,2024-01-16,2024-01-17 14:00,Satya,48,38,Korba
+SR0101,Temp Humidity Logger,Power Failure,High,Closed,2024-06-25,2024-06-27 18:00,Shiv,72,66,Pune
+SR0102,Rotary Encoder,PCB Fault,Medium,Closed,2024-05-02,2024-05-03 15:00,Ashwini,24,39,Korba
+SR0103,Millivoltmeter,Relay Malfunction,Medium,Open,2024-07-30,,Harish,24,,Bangalore
+SR0104,GPS Tracker,Power Failure,High,Closed,2024-06-26,2024-06-26 07:00,Harish,48,7,Delhi NCR
+SR0105,Temp Humidity Logger,Power Failure,High,Closed,2024-02-24,2024-02-27 21:00,Ashwini,72,93,Bangalore
+SR0106,GPS Tracker,Communication Error,High,Closed,2024-03-26,2024-03-27 21:00,Shiv,72,45,Pune
+SR0107,Temp Humidity Logger,Display Not Working,High,Closed,2024-01-24,2024-01-25 09:00,Rishabh,24,33,Bangalore
+SR0108,GSM Logger MC60,GPS Signal Lost,High,Closed,2024-07-04,2024-07-07 12:00,Rishabh,48,84,Pune
+SR0109,Mechanical Counter,GPS Signal Lost,Medium,Closed,2024-05-07,2024-05-09 14:00,Satya,72,62,Hyderabad
+SR0110,GSM Logger MC60,Calibration Required,High,Open,2024-02-28,,Shiv,24,,Hyderabad
+SR0111,GSM Logger MC60,Relay Malfunction,High,Closed,2024-08-21,2024-08-22 21:00,Harish,48,45,Bangalore
+SR0112,T-Device 1350C,Display Not Working,High,Closed,2024-06-07,2024-06-07 22:00,Rishabh,48,22,Hyderabad
+SR0113,GSM Logger MC60,GSM Not Connecting,High,Closed,2024-07-06,2024-07-08 10:00,Harish,72,58,Hyderabad
+SR0114,Water Dispenser IR,PCB Fault,Medium,Open,2024-02-22,,Shiv,48,,Hyderabad
+SR0115,T-Device 1350C,Relay Malfunction,Medium,Open,2024-02-10,,Rishabh,24,,Hyderabad
+SR0116,ESP32 Receiver,GPS Signal Lost,Low,In Progress,2024-03-11,,Shiv,48,47,Hyderabad
+SR0117,Water Dispenser IR,PCB Fault,High,Closed,2024-04-12,2024-04-12 07:00,Satya,24,7,Pune
+SR0118,T-Device 1350C,PCB Fault,Medium,Closed,2024-07-02,2024-07-04 07:00,Satya,48,55,Hyderabad
+SR0119,GPS Tracker,Firmware Update,Medium,Closed,2024-08-19,2024-08-22 20:00,Rajat,72,92,Korba
+SR0120,Temp Humidity Logger,Battery Backup Issue,High,Closed,2024-02-03,2024-02-04 11:00,Ashwini,72,35,Hyderabad
+SR0121,V-Device 100V,Sensor Reading Error,Medium,Closed,2024-02-05,2024-02-06 13:00,Harish,48,37,Delhi NCR
+SR0122,Water Dispenser IR,No Output,Low,In Progress,2024-08-02,,Harish,24,47,Korba
+SR0123,Mechanical Counter,Firmware Update,Medium,Closed,2024-03-15,2024-03-19 00:00,Rajat,72,96,Korba
+SR0124,Mechanical Counter,Display Not Working,High,Closed,2024-05-26,2024-05-27 17:00,Rishabh,72,41,Korba
+SR0125,Millivoltmeter,Communication Error,Low,Closed,2024-03-01,2024-03-04 16:00,Rishabh,48,88,Jharsuguda
+SR0126,GSM Logger SIM800,Calibration Required,Medium,Closed,2024-04-12,2024-04-15 00:00,Rishabh,24,72,Jharsuguda
+SR0127,Rotary Encoder,Battery Backup Issue,High,In Progress,2024-03-31,,Shiv,72,36,Hyderabad
+SR0128,GSM Logger SIM800,GSM Not Connecting,Low,Closed,2024-03-15,2024-03-17 13:00,Rajat,24,61,Korba
+SR0129,Mechanical Counter,Firmware Update,Medium,Closed,2024-01-04,2024-01-04 07:00,Rajat,24,7,Hyderabad
+SR0130,V-Device 100V,Calibration Required,Medium,Closed,2024-07-12,2024-07-13 01:00,Rajat,72,25,Pune
+SR0131,V-Device 100V,Calibration Required,Low,Open,2024-02-20,,Satya,48,,Bangalore
+SR0132,Water Dispenser IR,Relay Malfunction,High,Closed,2024-04-23,2024-04-25 09:00,Rajat,48,57,Pune
+SR0133,Temp Humidity Logger,Battery Backup Issue,High,Closed,2024-02-17,2024-02-18 22:00,Rishabh,48,46,Jharsuguda
+SR0134,ESP32 Receiver,Sensor Reading Error,Medium,Closed,2024-08-19,2024-08-21 11:00,Ashwini,72,59,Jharsuguda
+SR0135,V-Device 100V,Communication Error,Medium,Closed,2024-05-21,2024-05-22 08:00,Ashwini,72,32,Delhi NCR
+SR0136,T-Device 1350C,Communication Error,Medium,Closed,2024-07-18,2024-07-19 23:00,Ashwini,24,47,Bangalore
+SR0137,GSM Logger MC60,Calibration Required,High,Closed,2024-05-27,2024-05-28 17:00,Ashwini,72,41,Hyderabad
+SR0138,Mechanical Counter,Sensor Reading Error,High,Closed,2024-06-30,2024-07-01 00:00,Harish,24,24,Pune
+SR0139,Mechanical Counter,Power Failure,Medium,Closed,2024-05-12,2024-05-13 05:00,Satya,24,29,Delhi NCR
+SR0140,Water Dispenser IR,No Output,High,Closed,2024-03-23,2024-03-23 18:00,Shiv,72,18,Delhi NCR
+SR0141,T-Device 1350C,Firmware Update,Medium,In Progress,2024-03-17,,Ashwini,72,17,Korba
+SR0142,T-Device 1350C,Battery Backup Issue,High,Closed,2024-02-04,2024-02-05 11:00,Rishabh,48,35,Pune
+SR0143,GSM Logger MC60,No Output,High,In Progress,2024-08-10,,Ashwini,72,22,Hyderabad
+SR0144,T-Device 1350C,Firmware Update,High,Open,2024-02-23,,Rishabh,72,,Pune
+SR0145,GPS Tracker,PCB Fault,High,Open,2024-07-03,,Satya,72,,Bangalore
+SR0146,GSM Logger SIM800,PCB Fault,Medium,Closed,2024-01-20,2024-01-23 11:00,Harish,24,83,Delhi NCR
+SR0147,V-Device 100V,Power Failure,High,Closed,2024-07-17,2024-07-17 07:00,Shiv,72,7,Korba
+SR0148,Water Dispenser IR,Sensor Reading Error,Medium,In Progress,2024-04-07,,Satya,72,19,Pune
+SR0149,Water Dispenser IR,Battery Backup Issue,Medium,Closed,2024-06-04,2024-06-06 07:00,Satya,24,55,Pune
+SR0150,Rotary Encoder,Sensor Reading Error,Low,Closed,2024-02-03,2024-02-03 07:00,Rishabh,72,7,Pune
+SR0151,GSM Logger SIM800,GPS Signal Lost,High,In Progress,2024-03-05,,Rishabh,48,11,Hyderabad
+SR0152,GPS Tracker,Communication Error,High,Closed,2024-01-16,2024-01-19 18:00,Rishabh,24,90,Jharsuguda
+SR0153,Mechanical Counter,Calibration Required,Medium,Closed,2024-02-25,2024-02-26 09:00,Rajat,24,33,Korba
+SR0154,Water Dispenser IR,Firmware Update,Medium,Open,2024-04-19,,Satya,72,,Jharsuguda
+SR0155,ESP32 Receiver,PCB Fault,High,Open,2024-02-08,,Rajat,24,,Delhi NCR
+SR0156,GSM Logger SIM800,PCB Fault,Medium,Closed,2024-05-21,2024-05-22 11:00,Satya,24,35,Delhi NCR
+SR0157,T-Device 1350C,Communication Error,High,Open,2024-03-31,,Rishabh,48,,Delhi NCR
+SR0158,T-Device 1350C,Battery Backup Issue,Low,Closed,2024-03-23,2024-03-24 12:00,Rishabh,24,36,Hyderabad
+SR0159,GSM Logger MC60,Sensor Reading Error,High,Closed,2024-01-18,2024-01-19 04:00,Rishabh,24,28,Delhi NCR
+SR0160,V-Device 100V,Display Not Working,Medium,Closed,2024-05-30,2024-05-31 12:00,Rajat,48,36,Pune
+SR0161,Rotary Encoder,Firmware Update,Medium,Closed,2024-05-16,2024-05-18 12:00,Ashwini,24,60,Jharsuguda
+SR0162,V-Device 100V,Battery Backup Issue,Medium,Closed,2024-08-02,2024-08-02 22:00,Rishabh,24,22,Bangalore
+SR0163,Temp Humidity Logger,Firmware Update,Medium,Closed,2024-02-15,2024-02-17 06:00,Ashwini,48,54,Pune
+SR0164,Mechanical Counter,Communication Error,Low,Open,2024-04-20,,Rajat,48,,Bangalore
+SR0165,Rotary Encoder,Display Not Working,Medium,Closed,2024-06-10,2024-06-11 05:00,Shiv,72,29,Bangalore
+SR0166,GSM Logger SIM800,Sensor Reading Error,High,Closed,2024-01-17,2024-01-19 06:00,Satya,48,54,Hyderabad
+SR0167,GSM Logger SIM800,No Output,Medium,Closed,2024-01-02,2024-01-02 10:00,Satya,24,10,Delhi NCR
+SR0168,Water Dispenser IR,Battery Backup Issue,High,Closed,2024-08-01,2024-08-03 01:00,Ashwini,72,49,Korba
+SR0169,Water Dispenser IR,Battery Backup Issue,Medium,Closed,2024-08-01,2024-08-03 13:00,Satya,72,61,Bangalore
+SR0170,T-Device 1350C,Relay Malfunction,Medium,Closed,2024-04-22,2024-04-22 11:00,Harish,72,11,Hyderabad
+SR0171,Temp Humidity Logger,GSM Not Connecting,Low,In Progress,2024-07-01,,Rajat,48,25,Pune
+SR0172,Temp Humidity Logger,Battery Backup Issue,Medium,Closed,2024-07-01,2024-07-03 08:00,Ashwini,48,56,Bangalore
+SR0173,Rotary Encoder,GPS Signal Lost,Medium,Open,2024-06-03,,Rajat,24,,Korba
+SR0174,Mechanical Counter,GSM Not Connecting,Medium,Closed,2024-08-18,2024-08-19 18:00,Harish,48,42,Korba
+SR0175,GPS Tracker,Power Failure,Medium,Closed,2024-08-16,2024-08-18 06:00,Ashwini,72,54,Pune
+SR0176,Water Dispenser IR,GSM Not Connecting,Medium,Closed,2024-03-07,2024-03-10 21:00,Rishabh,72,93,Bangalore
+SR0177,Mechanical Counter,Relay Malfunction,Medium,Closed,2024-01-27,2024-01-29 19:00,Satya,24,67,Hyderabad
+SR0178,Mechanical Counter,Display Not Working,Low,Open,2024-08-09,,Rajat,24,,Hyderabad
+SR0179,GPS Tracker,No Output,Medium,Closed,2024-02-10,2024-02-14 00:00,Harish,24,96,Jharsuguda
+SR0180,GSM Logger SIM800,Battery Backup Issue,Medium,Closed,2024-01-25,2024-01-26 06:00,Harish,24,30,Pune
+SR0181,Rotary Encoder,Battery Backup Issue,High,In Progress,2024-04-29,,Satya,48,2,Jharsuguda
+SR0182,GPS Tracker,Calibration Required,High,Open,2024-02-13,,Harish,48,,Delhi NCR
+SR0183,T-Device 1350C,Battery Backup Issue,Medium,Closed,2024-01-31,2024-02-02 09:00,Satya,48,57,Bangalore
+SR0184,Millivoltmeter,Sensor Reading Error,Medium,Closed,2024-01-13,2024-01-16 20:00,Shiv,48,92,Korba
+SR0185,GPS Tracker,GSM Not Connecting,Medium,Closed,2024-01-29,2024-02-01 21:00,Harish,72,93,Jharsuguda
+SR0186,Water Dispenser IR,GPS Signal Lost,High,In Progress,2024-01-17,,Rajat,48,19,Pune
+SR0187,Mechanical Counter,Display Not Working,Low,Open,2024-06-08,,Rishabh,24,,Jharsuguda
+SR0188,Rotary Encoder,Relay Malfunction,Low,Closed,2024-03-22,2024-03-23 15:00,Harish,24,39,Pune
+SR0189,Mechanical Counter,Sensor Reading Error,Medium,Closed,2024-08-05,2024-08-08 05:00,Shiv,24,77,Bangalore
+SR0190,T-Device 1350C,Display Not Working,High,Closed,2024-08-27,2024-08-30 01:00,Rishabh,48,73,Delhi NCR
+SR0191,T-Device 1350C,Calibration Required,Medium,Closed,2024-01-11,2024-01-12 15:00,Ashwini,72,39,Jharsuguda
+SR0192,Water Dispenser IR,PCB Fault,High,Closed,2024-07-23,2024-07-25 12:00,Satya,48,60,Korba
+SR0193,Water Dispenser IR,Display Not Working,Medium,Closed,2024-02-15,2024-02-18 23:00,Rajat,24,95,Korba
+SR0194,Mechanical Counter,Firmware Update,Medium,Closed,2024-05-11,2024-05-14 20:00,Harish,24,92,Korba
+SR0195,Millivoltmeter,Calibration Required,Low,Closed,2024-05-06,2024-05-09 00:00,Ashwini,48,72,Jharsuguda
+SR0196,GSM Logger SIM800,PCB Fault,High,Closed,2024-03-22,2024-03-24 06:00,Harish,72,54,Pune
+SR0197,Temp Humidity Logger,GPS Signal Lost,Low,Open,2024-01-06,,Shiv,24,,Delhi NCR
+SR0198,Water Dispenser IR,Communication Error,Low,Open,2024-04-16,,Shiv,72,,Delhi NCR
+SR0199,Mechanical Counter,GSM Not Connecting,High,Open,2024-01-22,,Rajat,48,,Pune
+SR0200,V-Device 100V,Display Not Working,High,Closed,2024-04-01,2024-04-02 10:00,Satya,48,34,Jharsuguda
+SR0201,V-Device 100V,Sensor Reading Error,Low,Closed,2024-07-24,2024-07-27 12:00,Shiv,72,84,Delhi NCR
+SR0202,Temp Humidity Logger,Calibration Required,Medium,Closed,2024-04-02,2024-04-05 03:00,Rishabh,48,75,Korba
+SR0203,V-Device 100V,Battery Backup Issue,Medium,Closed,2024-04-04,2024-04-04 08:00,Ashwini,48,8,Delhi NCR
+SR0204,Millivoltmeter,Power Failure,Medium,Closed,2024-04-22,2024-04-22 05:00,Satya,48,5,Pune
+SR0205,Temp Humidity Logger,Firmware Update,High,Open,2024-03-04,,Rajat,72,,Pune
+SR0206,GSM Logger SIM800,Communication Error,Medium,Closed,2024-03-13,2024-03-14 19:00,Rajat,48,43,Korba
+SR0207,V-Device 100V,No Output,Medium,Closed,2024-05-30,2024-05-30 16:00,Ashwini,48,16,Delhi NCR
+SR0208,ESP32 Receiver,Firmware Update,Medium,Open,2024-08-24,,Shiv,24,,Korba
+SR0209,T-Device 1350C,Calibration Required,Medium,Closed,2024-07-14,2024-07-15 07:00,Shiv,48,31,Bangalore
+SR0210,T-Device 1350C,Calibration Required,Medium,Closed,2024-02-09,2024-02-09 20:00,Rajat,72,20,Delhi NCR
+SR0211,Mechanical Counter,No Output,Medium,Closed,2024-08-12,2024-08-12 14:00,Shiv,24,14,Bangalore
+SR0212,Millivoltmeter,Display Not Working,High,Closed,2024-04-22,2024-04-25 02:00,Shiv,48,74,Hyderabad
+SR0213,V-Device 100V,GSM Not Connecting,Medium,Closed,2024-06-30,2024-07-02 10:00,Rishabh,24,58,Bangalore
+SR0214,GSM Logger MC60,Sensor Reading Error,Medium,Closed,2024-06-12,2024-06-15 13:00,Shiv,48,85,Hyderabad
+SR0215,T-Device 1350C,Calibration Required,Low,Closed,2024-06-07,2024-06-10 23:00,Rishabh,48,95,Jharsuguda
+SR0216,T-Device 1350C,Firmware Update,Low,Closed,2024-05-18,2024-05-18 20:00,Rishabh,72,20,Pune
+SR0217,Temp Humidity Logger,Firmware Update,High,Closed,2024-08-11,2024-08-12 11:00,Ashwini,48,35,Pune
+SR0218,GPS Tracker,No Output,Medium,Closed,2024-06-10,2024-06-10 17:00,Rishabh,48,17,Pune
+SR0219,Water Dispenser IR,PCB Fault,Low,Closed,2024-05-19,2024-05-21 08:00,Rishabh,48,56,Hyderabad
+SR0220,V-Device 100V,Sensor Reading Error,Medium,In Progress,2024-05-07,,Satya,72,13,Delhi NCR
+SR0221,V-Device 100V,Communication Error,High,Open,2024-08-19,,Rishabh,48,,Hyderabad
+SR0222,T-Device 1350C,Sensor Reading Error,Low,Closed,2024-04-14,2024-04-14 19:00,Harish,72,19,Hyderabad
+SR0223,V-Device 100V,GSM Not Connecting,Medium,Open,2024-03-29,,Ashwini,72,,Hyderabad
+SR0224,ESP32 Receiver,GSM Not Connecting,Low,Open,2024-06-06,,Shiv,48,,Delhi NCR
+SR0225,GPS Tracker,GSM Not Connecting,Medium,Closed,2024-02-16,2024-02-18 04:00,Rajat,48,52,Korba
+SR0226,V-Device 100V,Battery Backup Issue,Medium,Closed,2024-03-01,2024-03-03 17:00,Harish,24,65,Jharsuguda
+SR0227,T-Device 1350C,Firmware Update,Low,Closed,2024-06-24,2024-06-24 05:00,Shiv,48,5,Jharsuguda
+SR0228,Mechanical Counter,Power Failure,Medium,Closed,2024-04-27,2024-04-27 12:00,Shiv,24,12,Jharsuguda
+SR0229,Millivoltmeter,GPS Signal Lost,Medium,Open,2024-04-11,,Satya,72,,Jharsuguda
+SR0230,GSM Logger MC60,Firmware Update,Medium,Open,2024-02-11,,Rajat,72,,Pune
+SR0231,V-Device 100V,Relay Malfunction,Medium,Closed,2024-03-29,2024-03-30 05:00,Harish,72,29,Delhi NCR
+SR0232,ESP32 Receiver,GPS Signal Lost,Medium,Closed,2024-08-14,2024-08-16 04:00,Ashwini,72,52,Jharsuguda
+SR0233,Water Dispenser IR,No Output,High,Closed,2024-05-29,2024-06-01 22:00,Rajat,24,94,Pune
+SR0234,GPS Tracker,No Output,Medium,Closed,2024-08-28,2024-08-30 22:00,Ashwini,48,70,Delhi NCR
+SR0235,T-Device 1350C,Relay Malfunction,High,Closed,2024-07-07,2024-07-07 08:00,Harish,72,8,Korba
+SR0236,T-Device 1350C,Communication Error,Medium,Closed,2024-08-18,2024-08-18 16:00,Rajat,72,16,Pune
+SR0237,V-Device 100V,GSM Not Connecting,Low,Closed,2024-05-04,2024-05-06 03:00,Harish,48,51,Pune
+SR0238,Water Dispenser IR,Display Not Working,High,Closed,2024-06-27,2024-06-29 22:00,Satya,48,70,Jharsuguda
+SR0239,GSM Logger MC60,Relay Malfunction,Low,In Progress,2024-05-20,,Ashwini,24,12,Hyderabad
+SR0240,Water Dispenser IR,Battery Backup Issue,Low,Closed,2024-02-09,2024-02-11 20:00,Ashwini,48,68,Pune
+SR0241,GPS Tracker,Communication Error,High,Closed,2024-05-27,2024-05-27 07:00,Rishabh,24,7,Korba
+SR0242,GSM Logger MC60,Relay Malfunction,Low,Open,2024-07-23,,Satya,72,,Korba
+SR0243,GPS Tracker,Relay Malfunction,High,Closed,2024-04-26,2024-04-27 09:00,Rajat,24,33,Delhi NCR
+SR0244,Mechanical Counter,GPS Signal Lost,Medium,Closed,2024-04-26,2024-04-26 14:00,Satya,72,14,Bangalore
+SR0245,GSM Logger MC60,Display Not Working,High,Closed,2024-05-26,2024-05-28 16:00,Satya,48,64,Hyderabad
+SR0246,Temp Humidity Logger,Battery Backup Issue,High,Closed,2024-05-29,2024-05-31 10:00,Rajat,48,58,Bangalore
+SR0247,GSM Logger SIM800,Display Not Working,Medium,Closed,2024-02-18,2024-02-18 05:00,Harish,48,5,Hyderabad
+SR0248,ESP32 Receiver,Battery Backup Issue,High,Closed,2024-01-24,2024-01-24 22:00,Shiv,72,22,Bangalore
+SR0249,Millivoltmeter,Power Failure,High,Closed,2024-03-08,2024-03-08 05:00,Harish,24,5,Bangalore
+SR0250,Millivoltmeter,Display Not Working,Medium,Closed,2024-05-29,2024-05-31 09:00,Satya,72,57,Pune
+SR0251,GPS Tracker,Battery Backup Issue,High,Closed,2024-07-03,2024-07-06 23:00,Ashwini,72,95,Korba
+SR0252,Water Dispenser IR,Display Not Working,High,In Progress,2024-06-24,,Rishabh,48,32,Jharsuguda
+SR0253,Mechanical Counter,PCB Fault,Medium,Closed,2024-03-19,2024-03-20 17:00,Shiv,24,41,Bangalore
+SR0254,V-Device 100V,Relay Malfunction,High,Closed,2024-03-14,2024-03-16 13:00,Rajat,48,61,Delhi NCR
+SR0255,GSM Logger SIM800,Relay Malfunction,Low,Closed,2024-01-31,2024-02-03 04:00,Rishabh,72,76,Hyderabad
+SR0256,Temp Humidity Logger,Power Failure,Low,Open,2024-08-21,,Rajat,48,,Hyderabad
+SR0257,Mechanical Counter,Communication Error,Medium,Open,2024-03-12,,Ashwini,48,,Jharsuguda
+SR0258,Temp Humidity Logger,Relay Malfunction,Medium,Closed,2024-04-11,2024-04-13 18:00,Ashwini,24,66,Delhi NCR
+SR0259,Millivoltmeter,Communication Error,Low,Closed,2024-07-22,2024-07-22 19:00,Rishabh,24,19,Delhi NCR
+SR0260,GSM Logger MC60,Battery Backup Issue,Medium,Closed,2024-02-08,2024-02-10 06:00,Shiv,72,54,Korba
+SR0261,Millivoltmeter,Communication Error,Low,Closed,2024-03-02,2024-03-03 18:00,Ashwini,72,42,Pune
+SR0262,GSM Logger MC60,Battery Backup Issue,Low,Closed,2024-07-02,2024-07-02 20:00,Ashwini,72,20,Korba
+SR0263,Rotary Encoder,Firmware Update,Low,Open,2024-02-14,,Rajat,24,,Korba
+SR0264,Mechanical Counter,Calibration Required,High,Closed,2024-03-17,2024-03-19 13:00,Ashwini,24,61,Delhi NCR
+SR0265,ESP32 Receiver,GSM Not Connecting,High,Closed,2024-06-12,2024-06-12 07:00,Harish,24,7,Bangalore
+SR0266,Millivoltmeter,Relay Malfunction,Medium,In Progress,2024-05-05,,Shiv,72,21,Delhi NCR
+SR0267,GSM Logger SIM800,No Output,Medium,Closed,2024-05-30,2024-06-01 14:00,Shiv,48,62,Hyderabad
+SR0268,Rotary Encoder,Relay Malfunction,Medium,Closed,2024-05-29,2024-05-31 20:00,Harish,24,68,Korba
+SR0269,ESP32 Receiver,Relay Malfunction,Medium,Closed,2024-04-12,2024-04-12 04:00,Ashwini,72,4,Jharsuguda
+SR0270,GSM Logger SIM800,GPS Signal Lost,Medium,Closed,2024-06-21,2024-06-23 05:00,Rishabh,48,53,Pune
+SR0271,V-Device 100V,GPS Signal Lost,Medium,In Progress,2024-01-23,,Rajat,48,32,Pune
+SR0272,T-Device 1350C,Firmware Update,Low,Closed,2024-03-27,2024-03-29 12:00,Shiv,48,60,Delhi NCR
+SR0273,ESP32 Receiver,GSM Not Connecting,Medium,Closed,2024-08-24,2024-08-24 22:00,Shiv,24,22,Delhi NCR
+SR0274,GPS Tracker,GSM Not Connecting,Medium,Closed,2024-03-21,2024-03-24 11:00,Rajat,72,83,Pune
+SR0275,ESP32 Receiver,Power Failure,Low,Closed,2024-05-01,2024-05-02 17:00,Rishabh,24,41,Jharsuguda
+SR0276,GPS Tracker,No Output,High,Closed,2024-07-23,2024-07-24 17:00,Harish,48,41,Jharsuguda
+SR0277,ESP32 Receiver,Communication Error,Medium,Closed,2024-02-08,2024-02-10 18:00,Harish,72,66,Pune
+SR0278,GSM Logger SIM800,Power Failure,Medium,Closed,2024-05-17,2024-05-20 06:00,Harish,48,78,Pune
+SR0279,Temp Humidity Logger,Power Failure,High,Closed,2024-03-01,2024-03-02 16:00,Ashwini,24,40,Delhi NCR
+SR0280,GSM Logger MC60,GPS Signal Lost,Medium,In Progress,2024-06-24,,Rajat,48,29,Bangalore
+SR0281,Water Dispenser IR,Battery Backup Issue,Low,In Progress,2024-06-19,,Rajat,48,9,Bangalore
+SR0282,Water Dispenser IR,Battery Backup Issue,Low,Closed,2024-07-12,2024-07-15 17:00,Satya,72,89,Delhi NCR
+SR0283,Water Dispenser IR,Relay Malfunction,High,Open,2024-03-13,,Rishabh,48,,Delhi NCR
+SR0284,Temp Humidity Logger,Calibration Required,Low,Closed,2024-04-02,2024-04-04 20:00,Ashwini,72,68,Pune
+SR0285,V-Device 100V,Communication Error,High,In Progress,2024-07-24,,Rishabh,48,2,Pune
+SR0286,V-Device 100V,Firmware Update,Medium,Closed,2024-03-04,2024-03-05 11:00,Rishabh,72,35,Delhi NCR
+SR0287,GSM Logger MC60,No Output,Medium,Open,2024-06-03,,Ashwini,48,,Hyderabad
+SR0288,Millivoltmeter,Display Not Working,Medium,Closed,2024-04-21,2024-04-21 07:00,Ashwini,48,7,Hyderabad
+SR0289,T-Device 1350C,Battery Backup Issue,Medium,Closed,2024-04-08,2024-04-11 02:00,Rajat,24,74,Korba
+SR0290,GSM Logger MC60,GSM Not Connecting,Medium,Open,2024-06-28,,Rishabh,48,,Korba
+SR0291,Millivoltmeter,Battery Backup Issue,Medium,Closed,2024-05-04,2024-05-04 21:00,Satya,48,21,Hyderabad
+SR0292,GSM Logger SIM800,Sensor Reading Error,Medium,Open,2024-02-08,,Satya,48,,Korba
+SR0293,ESP32 Receiver,Calibration Required,Medium,Closed,2024-03-04,2024-03-06 17:00,Satya,24,65,Korba
+SR0294,V-Device 100V,Display Not Working,High,Open,2024-08-18,,Rajat,72,,Bangalore
+SR0295,Water Dispenser IR,PCB Fault,Medium,Closed,2024-01-30,2024-01-31 21:00,Harish,24,45,Jharsuguda
+SR0296,GPS Tracker,Firmware Update,Medium,Closed,2024-06-22,2024-06-25 04:00,Shiv,24,76,Bangalore
+SR0297,Millivoltmeter,Relay Malfunction,Medium,Closed,2024-03-31,2024-04-02 19:00,Harish,24,67,Pune
+SR0298,Mechanical Counter,Relay Malfunction,Low,Closed,2024-03-14,2024-03-14 04:00,Shiv,24,4,Jharsuguda
+SR0299,V-Device 100V,Display Not Working,High,Closed,2024-05-19,2024-05-22 11:00,Ashwini,72,83,Delhi NCR
+SR0300,ESP32 Receiver,Firmware Update,Low,Open,2024-07-25,,Rajat,48,,Jharsuguda
+SR0301,Millivoltmeter,Sensor Reading Error,Medium,In Progress,2024-08-09,,Satya,72,5,Delhi NCR
+SR0302,GSM Logger MC60,Battery Backup Issue,High,Closed,2024-01-13,2024-01-14 10:00,Shiv,72,34,Bangalore
+SR0303,V-Device 100V,No Output,Low,Closed,2024-08-10,2024-08-13 23:00,Rajat,48,95,Hyderabad
+SR0304,Millivoltmeter,Power Failure,High,Closed,2024-08-12,2024-08-15 07:00,Ashwini,72,79,Jharsuguda
+SR0305,Rotary Encoder,GSM Not Connecting,High,Closed,2024-06-13,2024-06-14 12:00,Harish,48,36,Pune
+SR0306,GPS Tracker,No Output,Medium,Closed,2024-06-16,2024-06-19 19:00,Satya,24,91,Bangalore
+SR0307,Millivoltmeter,Communication Error,Medium,Closed,2024-03-20,2024-03-22 08:00,Shiv,24,56,Jharsuguda
+SR0308,GPS Tracker,Calibration Required,Medium,Closed,2024-03-10,2024-03-10 14:00,Rishabh,48,14,Pune
+SR0309,Mechanical Counter,Communication Error,Medium,Closed,2024-03-05,2024-03-06 14:00,Ashwini,24,38,Hyderabad
+SR0310,GSM Logger SIM800,Sensor Reading Error,High,Closed,2024-02-29,2024-03-01 10:00,Harish,24,34,Jharsuguda
+SR0311,ESP32 Receiver,Sensor Reading Error,Low,Open,2024-02-07,,Shiv,48,,Delhi NCR
+SR0312,GPS Tracker,No Output,Low,In Progress,2024-06-20,,Satya,72,12,Jharsuguda
+SR0313,Water Dispenser IR,GPS Signal Lost,High,Closed,2024-05-08,2024-05-09 09:00,Ashwini,48,33,Delhi NCR
+SR0314,GSM Logger SIM800,Calibration Required,Medium,In Progress,2024-04-23,,Ashwini,72,42,Pune
+SR0315,Temp Humidity Logger,Communication Error,Medium,Open,2024-08-16,,Shiv,48,,Hyderabad
+SR0316,V-Device 100V,Power Failure,Low,In Progress,2024-05-31,,Harish,72,6,Pune
+SR0317,Water Dispenser IR,Battery Backup Issue,High,Closed,2024-08-11,2024-08-13 06:00,Shiv,48,54,Korba
+SR0318,Temp Humidity Logger,Communication Error,Medium,Closed,2024-05-28,2024-05-28 13:00,Satya,24,13,Hyderabad
+SR0319,Temp Humidity Logger,Display Not Working,High,Closed,2024-04-22,2024-04-22 22:00,Ashwini,24,22,Hyderabad
+SR0320,GPS Tracker,Sensor Reading Error,High,Closed,2024-07-29,2024-07-31 01:00,Harish,24,49,Jharsuguda
+SR0321,Millivoltmeter,Relay Malfunction,High,Closed,2024-05-18,2024-05-19 01:00,Harish,24,25,Pune
+SR0322,Mechanical Counter,Display Not Working,Medium,In Progress,2024-07-15,,Harish,24,12,Hyderabad
+SR0323,V-Device 100V,PCB Fault,Medium,Closed,2024-08-28,2024-08-29 02:00,Rishabh,24,26,Delhi NCR
+SR0324,Mechanical Counter,Calibration Required,High,Closed,2024-06-22,2024-06-23 16:00,Rishabh,72,40,Jharsuguda
+SR0325,GSM Logger SIM800,Calibration Required,Medium,Closed,2024-07-18,2024-07-21 06:00,Harish,24,78,Delhi NCR
+SR0326,V-Device 100V,Display Not Working,Medium,Closed,2024-01-08,2024-01-09 17:00,Harish,24,41,Korba
+SR0327,GPS Tracker,Communication Error,Medium,Closed,2024-01-10,2024-01-10 19:00,Ashwini,48,19,Delhi NCR
+SR0328,ESP32 Receiver,Relay Malfunction,High,Closed,2024-04-18,2024-04-19 02:00,Rajat,72,26,Hyderabad
+SR0329,T-Device 1350C,Communication Error,Medium,Open,2024-05-26,,Ashwini,24,,Delhi NCR
+SR0330,Temp Humidity Logger,Firmware Update,High,Closed,2024-05-04,2024-05-06 17:00,Rajat,24,65,Jharsuguda
+SR0331,Rotary Encoder,Display Not Working,Medium,Closed,2024-07-03,2024-07-04 01:00,Rajat,24,25,Pune
+SR0332,GSM Logger SIM800,Communication Error,Medium,Closed,2024-04-16,2024-04-17 20:00,Rishabh,72,44,Hyderabad
+SR0333,Temp Humidity Logger,PCB Fault,Medium,Closed,2024-07-27,2024-07-27 18:00,Rishabh,48,18,Pune
+SR0334,T-Device 1350C,No Output,High,Closed,2024-08-19,2024-08-20 23:00,Ashwini,24,47,Jharsuguda
+SR0335,Millivoltmeter,Relay Malfunction,High,Closed,2024-05-07,2024-05-09 02:00,Rajat,24,50,Pune
+SR0336,Rotary Encoder,Sensor Reading Error,Medium,Closed,2024-04-01,2024-04-04 10:00,Rishabh,48,82,Hyderabad
+SR0337,Water Dispenser IR,Communication Error,Medium,Closed,2024-05-18,2024-05-20 01:00,Harish,24,49,Pune
+SR0338,T-Device 1350C,Display Not Working,Medium,Closed,2024-06-28,2024-06-28 12:00,Satya,24,12,Bangalore
+SR0339,GSM Logger MC60,Relay Malfunction,Low,In Progress,2024-03-16,,Satya,24,33,Jharsuguda
+SR0340,Mechanical Counter,GPS Signal Lost,Low,Closed,2024-01-24,2024-01-27 16:00,Shiv,24,88,Pune
+SR0341,GSM Logger MC60,Sensor Reading Error,Medium,Closed,2024-08-01,2024-08-02 22:00,Ashwini,48,46,Delhi NCR
+SR0342,Mechanical Counter,Calibration Required,High,Closed,2024-03-07,2024-03-10 18:00,Rishabh,48,90,Korba
+SR0343,ESP32 Receiver,Communication Error,High,Closed,2024-04-25,2024-04-27 12:00,Rajat,72,60,Hyderabad
+SR0344,Mechanical Counter,Calibration Required,Medium,In Progress,2024-02-25,,Rishabh,48,48,Bangalore
+SR0345,ESP32 Receiver,Communication Error,Medium,Closed,2024-01-27,2024-01-30 12:00,Shiv,24,84,Bangalore
+SR0346,Temp Humidity Logger,Sensor Reading Error,Medium,Closed,2024-05-27,2024-05-30 11:00,Ashwini,72,83,Pune
+SR0347,Water Dispenser IR,Battery Backup Issue,Medium,Open,2024-04-03,,Shiv,72,,Jharsuguda
+SR0348,ESP32 Receiver,GSM Not Connecting,Medium,Closed,2024-08-02,2024-08-05 04:00,Shiv,24,76,Hyderabad
+SR0349,GSM Logger MC60,GPS Signal Lost,High,Closed,2024-08-02,2024-08-04 04:00,Ashwini,48,52,Hyderabad
+SR0350,GSM Logger SIM800,Battery Backup Issue,Medium,Closed,2024-02-17,2024-02-20 11:00,Ashwini,48,83,Jharsuguda
+SR0351,Mechanical Counter,Relay Malfunction,Low,Closed,2024-01-11,2024-01-11 17:00,Satya,24,17,Hyderabad
+SR0352,Millivoltmeter,No Output,Low,Closed,2024-03-02,2024-03-05 17:00,Harish,48,89,Delhi NCR
+SR0353,Mechanical Counter,Communication Error,High,Closed,2024-01-01,2024-01-03 19:00,Rishabh,72,67,Delhi NCR
+SR0354,ESP32 Receiver,No Output,High,In Progress,2024-05-29,,Rishabh,24,45,Pune
+SR0355,GSM Logger SIM800,Relay Malfunction,High,Closed,2024-08-25,2024-08-25 14:00,Satya,24,14,Pune
+SR0356,T-Device 1350C,Calibration Required,Medium,In Progress,2024-07-08,,Ashwini,48,43,Pune
+SR0357,V-Device 100V,PCB Fault,Medium,Closed,2024-01-24,2024-01-24 12:00,Ashwini,48,12,Korba
+SR0358,Water Dispenser IR,GPS Signal Lost,High,Closed,2024-06-09,2024-06-12 12:00,Rajat,48,84,Delhi NCR
+SR0359,Rotary Encoder,Battery Backup Issue,High,Closed,2024-07-26,2024-07-26 16:00,Shiv,48,16,Korba
+SR0360,Rotary Encoder,Battery Backup Issue,High,Closed,2024-03-17,2024-03-18 18:00,Harish,72,42,Delhi NCR
+SR0361,Rotary Encoder,Firmware Update,High,In Progress,2024-01-03,,Rishabh,48,42,Bangalore
+SR0362,GPS Tracker,No Output,Medium,In Progress,2024-03-25,,Shiv,24,14,Jharsuguda
+SR0363,Temp Humidity Logger,Firmware Update,Low,Closed,2024-07-01,2024-07-04 20:00,Ashwini,48,92,Delhi NCR
+SR0364,Mechanical Counter,No Output,Medium,Closed,2024-02-19,2024-02-19 09:00,Satya,48,9,Jharsuguda
+SR0365,Mechanical Counter,GSM Not Connecting,Medium,Closed,2024-06-07,2024-06-08 22:00,Harish,24,46,Korba
+SR0366,Temp Humidity Logger,GSM Not Connecting,High,Closed,2024-03-03,2024-03-05 08:00,Harish,48,56,Delhi NCR
+SR0367,GPS Tracker,Power Failure,Medium,Closed,2024-07-09,2024-07-10 20:00,Harish,72,44,Jharsuguda
+SR0368,GSM Logger MC60,Battery Backup Issue,High,Closed,2024-05-04,2024-05-04 13:00,Rishabh,24,13,Bangalore
+SR0369,Water Dispenser IR,No Output,Medium,Closed,2024-06-28,2024-06-30 16:00,Rajat,48,64,Jharsuguda
+SR0370,T-Device 1350C,GSM Not Connecting,Low,Open,2024-01-25,,Satya,24,,Hyderabad
+SR0371,Temp Humidity Logger,GSM Not Connecting,Low,Closed,2024-07-26,2024-07-26 05:00,Shiv,72,5,Korba
+SR0372,Millivoltmeter,Communication Error,Low,Closed,2024-07-13,2024-07-15 19:00,Shiv,48,67,Pune
+SR0373,Millivoltmeter,Relay Malfunction,Medium,In Progress,2024-01-02,,Rishabh,24,22,Korba
+SR0374,Mechanical Counter,Display Not Working,Medium,Closed,2024-07-30,2024-07-30 22:00,Ashwini,24,22,Hyderabad
+SR0375,Rotary Encoder,Firmware Update,Medium,Open,2024-06-30,,Ashwini,48,,Hyderabad
+SR0376,T-Device 1350C,Firmware Update,Medium,Closed,2024-02-06,2024-02-07 13:00,Rajat,24,37,Hyderabad
+SR0377,Temp Humidity Logger,Relay Malfunction,High,Closed,2024-05-25,2024-05-25 07:00,Shiv,24,7,Bangalore
+SR0378,T-Device 1350C,Relay Malfunction,Medium,Closed,2024-03-16,2024-03-18 02:00,Shiv,24,50,Korba
+SR0379,ESP32 Receiver,Sensor Reading Error,Medium,Closed,2024-03-29,2024-04-01 08:00,Ashwini,72,80,Pune
+SR0380,GPS Tracker,Sensor Reading Error,Low,Closed,2024-05-28,2024-05-28 09:00,Rajat,48,9,Pune
+SR0381,GSM Logger MC60,Relay Malfunction,Low,Closed,2024-04-21,2024-04-24 14:00,Harish,24,86,Bangalore
+SR0382,Water Dispenser IR,GSM Not Connecting,High,Closed,2024-07-15,2024-07-17 05:00,Harish,24,53,Bangalore
+SR0383,Rotary Encoder,Firmware Update,Low,Closed,2024-04-11,2024-04-14 06:00,Shiv,72,78,Delhi NCR
+SR0384,ESP32 Receiver,Battery Backup Issue,Medium,Closed,2024-05-29,2024-05-31 04:00,Ashwini,48,52,Hyderabad
+SR0385,Mechanical Counter,Sensor Reading Error,Low,Closed,2024-03-18,2024-03-18 04:00,Satya,48,4,Jharsuguda
+SR0386,Millivoltmeter,Communication Error,Medium,Closed,2024-03-06,2024-03-06 15:00,Rajat,72,15,Pune
+SR0387,T-Device 1350C,No Output,High,Closed,2024-07-16,2024-07-18 23:00,Ashwini,72,71,Bangalore
+SR0388,ESP32 Receiver,Power Failure,High,Open,2024-01-30,,Rishabh,72,,Hyderabad
+SR0389,Temp Humidity Logger,Sensor Reading Error,Low,Open,2024-06-18,,Rishabh,72,,Jharsuguda
+SR0390,GSM Logger SIM800,No Output,Medium,Closed,2024-04-03,2024-04-04 01:00,Satya,48,25,Bangalore
+SR0391,GSM Logger MC60,Power Failure,Low,Closed,2024-04-19,2024-04-22 17:00,Harish,24,89,Bangalore
+SR0392,T-Device 1350C,Display Not Working,High,Closed,2024-07-12,2024-07-13 05:00,Ashwini,48,29,Bangalore
+SR0393,T-Device 1350C,Calibration Required,Medium,In Progress,2024-04-02,,Satya,48,39,Pune
+SR0394,ESP32 Receiver,No Output,Medium,Closed,2024-04-19,2024-04-20 07:00,Rajat,24,31,Hyderabad
+SR0395,GSM Logger SIM800,GPS Signal Lost,Low,Closed,2024-07-19,2024-07-22 07:00,Rajat,24,79,Pune
+SR0396,GSM Logger MC60,PCB Fault,High,Closed,2024-07-04,2024-07-05 21:00,Rajat,24,45,Pune
+SR0397,Mechanical Counter,Firmware Update,Low,Closed,2024-01-20,2024-01-22 18:00,Rishabh,24,66,Jharsuguda
+SR0398,GSM Logger SIM800,Sensor Reading Error,High,Closed,2024-05-25,2024-05-28 09:00,Shiv,72,81,Korba
+SR0399,ESP32 Receiver,Calibration Required,High,Closed,2024-04-03,2024-04-04 14:00,Shiv,48,38,Korba
+SR0400,Temp Humidity Logger,Communication Error,Low,Open,2024-01-11,,Harish,24,,Korba
+SR0401,Mechanical Counter,GSM Not Connecting,High,Closed,2024-01-02,2024-01-02 21:00,Satya,72,21,Bangalore
+SR0402,Temp Humidity Logger,PCB Fault,Medium,Closed,2024-07-30,2024-08-02 23:00,Harish,24,95,Pune
+SR0403,ESP32 Receiver,PCB Fault,High,In Progress,2024-07-28,,Rishabh,24,8,Hyderabad
+SR0404,GSM Logger SIM800,Sensor Reading Error,Low,Closed,2024-04-22,2024-04-23 13:00,Rajat,48,37,Bangalore
+SR0405,Temp Humidity Logger,Communication Error,High,In Progress,2024-05-16,,Rajat,24,42,Jharsuguda
+SR0406,GSM Logger SIM800,Power Failure,Low,Closed,2024-06-25,2024-06-25 10:00,Harish,72,10,Hyderabad
+SR0407,GSM Logger SIM800,Relay Malfunction,Medium,Closed,2024-02-24,2024-02-25 10:00,Rishabh,24,34,Bangalore
+SR0408,V-Device 100V,GPS Signal Lost,High,Closed,2024-05-09,2024-05-12 21:00,Harish,72,93,Hyderabad
+SR0409,Rotary Encoder,Calibration Required,Medium,Closed,2024-03-22,2024-03-25 17:00,Shiv,24,89,Pune
+SR0410,Mechanical Counter,Communication Error,Medium,Closed,2024-05-21,2024-05-23 22:00,Rajat,24,70,Jharsuguda
+SR0411,GSM Logger SIM800,PCB Fault,Medium,Closed,2024-03-01,2024-03-03 15:00,Shiv,72,63,Jharsuguda
+SR0412,Temp Humidity Logger,Firmware Update,Medium,Closed,2024-04-10,2024-04-10 06:00,Harish,24,6,Korba
+SR0413,GSM Logger MC60,Firmware Update,High,Closed,2024-01-23,2024-01-23 20:00,Ashwini,24,20,Delhi NCR
+SR0414,Millivoltmeter,Battery Backup Issue,Medium,Closed,2024-04-12,2024-04-12 20:00,Rishabh,72,20,Hyderabad
+SR0415,T-Device 1350C,Power Failure,Low,Closed,2024-02-02,2024-02-03 17:00,Satya,24,41,Jharsuguda
+SR0416,GPS Tracker,No Output,High,Closed,2024-02-09,2024-02-12 16:00,Harish,48,88,Korba
+SR0417,GSM Logger SIM800,Sensor Reading Error,Low,In Progress,2024-03-18,,Ashwini,48,44,Bangalore
+SR0418,T-Device 1350C,Sensor Reading Error,High,Closed,2024-07-03,2024-07-04 20:00,Rajat,72,44,Pune
+SR0419,Water Dispenser IR,Display Not Working,Medium,Closed,2024-06-06,2024-06-07 07:00,Rajat,48,31,Pune
+SR0420,ESP32 Receiver,Communication Error,Low,Closed,2024-06-29,2024-07-02 12:00,Ashwini,24,84,Korba
+SR0421,V-Device 100V,Relay Malfunction,High,Closed,2024-05-13,2024-05-14 06:00,Satya,48,30,Pune
+SR0422,Water Dispenser IR,Sensor Reading Error,Medium,Closed,2024-02-22,2024-02-22 09:00,Satya,48,9,Bangalore
+SR0423,GSM Logger SIM800,Calibration Required,Medium,Closed,2024-06-15,2024-06-18 13:00,Ashwini,24,85,Korba
+SR0424,Rotary Encoder,Power Failure,Low,Open,2024-01-20,,Ashwini,72,,Hyderabad
+SR0425,Millivoltmeter,Calibration Required,Medium,Closed,2024-05-28,2024-05-28 08:00,Harish,48,8,Pune
+SR0426,Temp Humidity Logger,Display Not Working,Medium,Closed,2024-05-03,2024-05-04 06:00,Satya,72,30,Hyderabad
+SR0427,V-Device 100V,GPS Signal Lost,High,In Progress,2024-06-13,,Harish,48,31,Jharsuguda
+SR0428,ESP32 Receiver,No Output,Medium,Closed,2024-05-17,2024-05-18 01:00,Ashwini,72,25,Hyderabad
+SR0429,Rotary Encoder,Communication Error,High,Closed,2024-03-02,2024-03-04 15:00,Rishabh,72,63,Jharsuguda
+SR0430,T-Device 1350C,GSM Not Connecting,Medium,Open,2024-06-25,,Shiv,24,,Delhi NCR
+SR0431,T-Device 1350C,Communication Error,Low,Closed,2024-04-07,2024-04-09 05:00,Rishabh,24,53,Pune
+SR0432,GSM Logger MC60,No Output,Medium,Open,2024-05-29,,Rajat,24,,Jharsuguda
+SR0433,GPS Tracker,GSM Not Connecting,Medium,In Progress,2024-02-25,,Harish,24,28,Bangalore
+SR0434,GPS Tracker,Communication Error,Low,Closed,2024-01-31,2024-02-02 04:00,Rajat,72,52,Jharsuguda
+SR0435,Water Dispenser IR,PCB Fault,High,Closed,2024-05-22,2024-05-25 06:00,Satya,72,78,Bangalore
+SR0436,ESP32 Receiver,Sensor Reading Error,Medium,In Progress,2024-06-24,,Ashwini,48,39,Jharsuguda
+SR0437,Rotary Encoder,Communication Error,High,Closed,2024-02-28,2024-03-02 14:00,Ashwini,48,86,Korba
+SR0438,GSM Logger SIM800,Display Not Working,Low,Closed,2024-02-29,2024-03-03 17:00,Shiv,24,89,Pune
+SR0439,Water Dispenser IR,Power Failure,High,Closed,2024-07-25,2024-07-27 00:00,Satya,72,48,Jharsuguda
+SR0440,GSM Logger SIM800,Firmware Update,High,In Progress,2024-06-24,,Shiv,24,12,Bangalore
+SR0441,GSM Logger MC60,Communication Error,Medium,Closed,2024-05-23,2024-05-26 14:00,Rishabh,72,86,Hyderabad
+SR0442,Rotary Encoder,Calibration Required,Medium,In Progress,2024-03-07,,Satya,48,43,Hyderabad
+SR0443,Rotary Encoder,Display Not Working,Low,Closed,2024-02-07,2024-02-11 00:00,Shiv,48,96,Delhi NCR
+SR0444,Mechanical Counter,Relay Malfunction,Medium,Closed,2024-07-13,2024-07-13 22:00,Shiv,48,22,Delhi NCR
+SR0445,Mechanical Counter,Display Not Working,Low,Open,2024-02-20,,Rishabh,48,,Bangalore
+SR0446,Mechanical Counter,Relay Malfunction,Low,Closed,2024-08-09,2024-08-12 23:00,Shiv,24,95,Delhi NCR
+SR0447,GSM Logger MC60,PCB Fault,High,Closed,2024-02-05,2024-02-06 10:00,Harish,72,34,Korba
+SR0448,GPS Tracker,Battery Backup Issue,Low,Closed,2024-01-11,2024-01-13 07:00,Shiv,24,55,Bangalore
+SR0449,GSM Logger SIM800,GSM Not Connecting,Medium,Closed,2024-02-18,2024-02-21 19:00,Rishabh,48,91,Pune
+SR0450,GPS Tracker,Relay Malfunction,High,Closed,2024-07-11,2024-07-13 13:00,Harish,24,61,Delhi NCR
+SR0451,ESP32 Receiver,PCB Fault,Medium,In Progress,2024-03-15,,Rishabh,24,36,Korba
+SR0452,Rotary Encoder,Sensor Reading Error,Medium,Closed,2024-08-27,2024-08-27 20:00,Rishabh,24,20,Bangalore
+SR0453,T-Device 1350C,Calibration Required,Low,Closed,2024-05-05,2024-05-08 09:00,Ashwini,48,81,Jharsuguda
+SR0454,Mechanical Counter,Sensor Reading Error,High,Closed,2024-08-15,2024-08-15 22:00,Rishabh,48,22,Delhi NCR
+SR0455,Rotary Encoder,GPS Signal Lost,High,Open,2024-02-15,,Rajat,24,,Pune
+SR0456,ESP32 Receiver,Firmware Update,Medium,Open,2024-06-30,,Rajat,24,,Jharsuguda
+SR0457,Millivoltmeter,No Output,Low,Closed,2024-03-17,2024-03-17 08:00,Ashwini,72,8,Pune
+SR0458,ESP32 Receiver,Sensor Reading Error,Medium,In Progress,2024-01-17,,Rishabh,72,48,Hyderabad
+SR0459,Temp Humidity Logger,Firmware Update,High,Closed,2024-06-29,2024-07-02 14:00,Satya,24,86,Bangalore
+SR0460,GSM Logger MC60,PCB Fault,High,Closed,2024-05-08,2024-05-09 02:00,Rishabh,24,26,Jharsuguda
+SR0461,Temp Humidity Logger,Battery Backup Issue,Medium,Closed,2024-04-24,2024-04-24 15:00,Rajat,24,15,Korba
+SR0462,Mechanical Counter,Battery Backup Issue,Medium,Open,2024-01-14,,Rajat,72,,Delhi NCR
+SR0463,GSM Logger SIM800,Sensor Reading Error,Medium,In Progress,2024-03-31,,Harish,48,29,Hyderabad
+SR0464,GPS Tracker,Firmware Update,Medium,Open,2024-07-12,,Rishabh,48,,Korba
+SR0465,V-Device 100V,No Output,Medium,Closed,2024-03-13,2024-03-15 04:00,Rishabh,72,52,Korba
+SR0466,T-Device 1350C,PCB Fault,Medium,In Progress,2024-08-26,,Shiv,24,19,Korba
+SR0467,Millivoltmeter,Communication Error,Low,Closed,2024-06-18,2024-06-20 19:00,Satya,48,67,Delhi NCR
+SR0468,Millivoltmeter,GSM Not Connecting,Low,Closed,2024-07-21,2024-07-23 13:00,Rishabh,48,61,Jharsuguda
+SR0469,Rotary Encoder,Relay Malfunction,High,Open,2024-03-01,,Shiv,72,,Bangalore
+SR0470,GSM Logger SIM800,Display Not Working,High,Closed,2024-04-19,2024-04-19 13:00,Ashwini,24,13,Hyderabad
+SR0471,Mechanical Counter,GPS Signal Lost,High,Open,2024-06-09,,Satya,48,,Delhi NCR
+SR0472,GSM Logger SIM800,Relay Malfunction,High,Closed,2024-05-18,2024-05-19 05:00,Shiv,72,29,Delhi NCR
+SR0473,Temp Humidity Logger,Power Failure,Medium,Closed,2024-01-06,2024-01-08 07:00,Satya,48,55,Bangalore
+SR0474,GSM Logger MC60,Calibration Required,Low,Closed,2024-06-19,2024-06-21 12:00,Shiv,72,60,Bangalore
+SR0475,ESP32 Receiver,Relay Malfunction,Medium,In Progress,2024-06-15,,Rishabh,48,36,Delhi NCR
+SR0476,Millivoltmeter,No Output,Medium,Closed,2024-05-17,2024-05-17 10:00,Harish,48,10,Korba
+SR0477,GPS Tracker,No Output,Medium,Closed,2024-07-11,2024-07-14 14:00,Shiv,72,86,Jharsuguda
+SR0478,Millivoltmeter,Sensor Reading Error,Medium,In Progress,2024-08-19,,Shiv,48,34,Pune
+SR0479,V-Device 100V,Relay Malfunction,Medium,Closed,2024-01-11,2024-01-11 13:00,Shiv,48,13,Bangalore
+SR0480,GSM Logger MC60,GSM Not Connecting,Low,In Progress,2024-03-12,,Shiv,72,35,Korba
+SR0481,Millivoltmeter,Display Not Working,Medium,In Progress,2024-03-23,,Shiv,24,36,Korba
+SR0482,Millivoltmeter,GSM Not Connecting,Low,Closed,2024-05-14,2024-05-14 04:00,Harish,72,4,Pune
+SR0483,Temp Humidity Logger,Firmware Update,High,Closed,2024-02-17,2024-02-19 03:00,Harish,72,51,Hyderabad
+SR0484,T-Device 1350C,Battery Backup Issue,Low,Closed,2024-03-12,2024-03-13 20:00,Shiv,24,44,Hyderabad
+SR0485,Mechanical Counter,Relay Malfunction,High,Closed,2024-08-11,2024-08-14 07:00,Shiv,72,79,Delhi NCR
+SR0486,GSM Logger MC60,Communication Error,High,Closed,2024-06-30,2024-07-02 15:00,Harish,72,63,Hyderabad
+SR0487,Water Dispenser IR,GPS Signal Lost,High,Closed,2024-08-18,2024-08-20 15:00,Harish,72,63,Bangalore
+SR0488,Temp Humidity Logger,Display Not Working,Medium,Closed,2024-01-17,2024-01-20 01:00,Rishabh,48,73,Delhi NCR
+SR0489,T-Device 1350C,Power Failure,High,Closed,2024-07-24,2024-07-25 23:00,Harish,24,47,Jharsuguda
+SR0490,GSM Logger MC60,Sensor Reading Error,High,Open,2024-04-13,,Rishabh,24,,Hyderabad
+SR0491,ESP32 Receiver,GSM Not Connecting,Low,In Progress,2024-06-17,,Rishabh,24,38,Pune
+SR0492,Temp Humidity Logger,GSM Not Connecting,High,Closed,2024-03-19,2024-03-19 09:00,Satya,48,9,Delhi NCR
+SR0493,GSM Logger MC60,Sensor Reading Error,Medium,Closed,2024-03-20,2024-03-20 21:00,Rishabh,72,21,Hyderabad
+SR0494,GSM Logger SIM800,Sensor Reading Error,Low,Closed,2024-04-15,2024-04-17 21:00,Ashwini,72,69,Korba
+SR0495,Water Dispenser IR,Relay Malfunction,Medium,Open,2024-05-22,,Rajat,24,,Korba
+SR0496,GPS Tracker,Battery Backup Issue,High,Closed,2024-06-08,2024-06-10 12:00,Rajat,48,60,Pune
+SR0497,Mechanical Counter,Battery Backup Issue,High,Closed,2024-01-01,2024-01-01 08:00,Ashwini,48,8,Delhi NCR
+SR0498,T-Device 1350C,Firmware Update,High,In Progress,2024-08-24,,Ashwini,24,10,Bangalore
+SR0499,V-Device 100V,GPS Signal Lost,High,In Progress,2024-03-22,,Satya,48,43,Hyderabad
+SR0500,Temp Humidity Logger,Relay Malfunction,Medium,Open,2024-07-04,,Shiv,24,,Delhi NCR
